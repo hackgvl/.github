@@ -1,5 +1,5 @@
 ## HackGreenville Labs on GitHub
-GitHub is the primary source of code and project management for the projects supported by [HackGreenville](https://hackgreenville.com/) Labs.
+GitHub is the primary source of code and project management for the projects supported by [HackGreenville Labs](https://hackgreenville.com/labs).
 
 Some of these projects were originally developed by the group formerly known as Code For Greenville.
 
